@@ -37,5 +37,5 @@ jobs:
             pull_number,
             state: "closed"
           })
-      if: failure()                 
+      if: failure()                  
     
